@@ -39,59 +39,59 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="<img src="https://i.ibb.co/k1JYTWc/telecine-touch.jpg" group-title="Filmes e Séries",Telecine Touch
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
-#EXTINF:-1,HBO
+#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="<img src="https://i.ibb.co/KF4GwHK/hbo.png" group-title="Filmes e Séries",HBO
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
-#EXTINF:-1,HBO 2
+#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="<img src="https://i.ibb.co/KmkZDLv/hbo2.png" group-title="Filmes e Séries",HBO 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
-#EXTINF:-1,HBO Family
+#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="<img src="https://i.ibb.co/wz8bZFk/HBO-Family.png" group-title="Filmes e Séries",HBO Family
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="<img src="https://i.ibb.co/ZGN0Y99/HBO-Plus.png" group-title="Filmes e Séries",HBO Plus
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
-#EXTINF:-1,HBO Signature
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="<img src="https://i.ibb.co/kMJLMHN/HBO-Signature.png" group-title="Filmes e Séries",HBO Signature
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
-#EXTINF:-1,Max
+#EXTINF:-1 type="stream" tvg-id="Max" tvg-logo="<img src="https://i.ibb.co/sVSGbFc/Max.png" group-title="Filmes e Séries",Max
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/max.m3u8?wmsAuthSign=
-#EXTINF:-1,Max Prime
+#EXTINF:-1 type="stream" tvg-id="Max Prime" tvg-logo="<img src="https://i.ibb.co/X7bKBy1/max-prime.png" group-title="Filmes e Séries",Max Prime
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
-#EXTINF:-1,Max Up
+#EXTINF:-1 type="stream" tvg-id="Max Up" tvg-logo="<img src="https://i.ibb.co/5GDyty3/Max-up.png" group-title="Filmes e Séries",Max Up
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/3BqYyPn/amc.png" group-title="Filmes e Séries",AMC
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
-#EXTINF:-1,Cinemax
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/f0gMfRX/Cinemax.png" group-title="Filmes e Séries",Cinemax
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
-#EXTINF:-1,Megapix
+#EXTINF:-1, type="stream" tvg-id="Megapix" tvg-logo="https://i.ibb.co/d09b059/megapix.png" group-title="Filmes e Séries",Megapix
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
-#EXTINF:-1,Paramount
+#EXTINF:-1 type="stream" tvg-id="Paramount" tvg-logo="https://i.ibb.co/2FkqrFm/Paramount.png" group-title="Filmes e Séries",Paramount
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=
-#EXTINF:-1,Space
+#EXTINF:-1 type="stream" tvg-id="Space" tvg-logo="https://i.ibb.co/tsybWzw/space.png" group-title="Filmes e Séries",Space
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 type="stream" tvg-id="Studio Universal" tvg-logo="https://i.ibb.co/d5rdF9D/Studio-Universal.png" group-title="Filmes e Séries",Studio Universal
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
-#EXTINF:-1,TNT
+#EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="https://i.ibb.co/S7LrgBM/tnt.png" group-title="Filmes e Séries",TNT
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
-#EXTINF:-1,Universal
+#EXTINF:-1 type="stream" tvg-id="Universal" tvg-logo="https://i.ibb.co/0Ff8Cb0/Universal.png" group-title="Filmes e Séries",Universal
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
-#EXTINF:-1,Warner
+#EXTINF:-1 type="stream" tvg-id="Warner" tvg-logo="https://i.ibb.co/BNHnhZF/Warner.png" group-title="Filmes e Séries",Warner
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/Hg3FzW7/a-e.png" group-title="Filmes e Séries",A&E
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
-#EXTINF:-1,Sony
+#EXTINF:-1 type="stream" tvg-id="Sony" tvg-logo="https://i.ibb.co/yy5KwXw/Sony.png" group-title="Filmes e Séries",Sony
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/7vcFXz7/comedy-central.png" group-title="Filmes e Séries",Comedy Central
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
-#EXTINF:-1,FX
+#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/s1jRVZ2/FX.png" group-title="Filmes e Séries",FX
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
-#EXTINF:-1,Investigação Discovery
+#EXTINF:-1 type="stream" tvg-id="Investigação Discovery" tvg-logo="https://i.ibb.co/181HFd4/Investiga-o-Discovery.png" group-title="Filmes e Séries",Investigação Discovery
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
-#EXTINF:-1,Syfy
+#EXTINF:-1 type="stream" tvg-id="Syfy" tvg-logo="https://i.ibb.co/58kHyVn/syfy.png" group-title="Filmes e Séries",Syfy
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
-#EXTINF:-1,TNT Series
+#EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/z8DLhHV/tnt-series.png" group-title="Filmes e Séries",TNT Series
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
-#EXTINF:-1,History
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/dLDzGdc/history-channel.png" group-title="Filmes e Séries",History
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
-#EXTINF:-1,History 2
+#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/LQCpKFR/history-2.png" group-title="Filmes e Séries",History 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
-#EXTINF:-1,Nat Geo
+#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/SfmmjqC/National-Geographic.png" group-title="Filmes e Séries",National Geographic
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/fCFXpDh/discovery-channel.png" group-title="Documentario",Discovery Channel
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
