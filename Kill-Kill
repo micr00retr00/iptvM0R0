@@ -139,15 +139,15 @@ http://cdndp.topcine.tv/ondemand/filmes/Vivir.dos.veces.2019.mp4
 http://cdndp.topcine.tv/ondemand/filmes/Abominable.2019.mp4
 #EXTINF:-1 type="stream" tvg-id="Herdeiro das Drogas" tvg-logo="https://i.ibb.co/xjytH1Q/Herdeiro-das-Drogas.jpg" group-title="Filmes 2020",Herdeiro das Drogas
 http://cdndp.topcine.tv/ondemand/filmes/Inherit.the.Viper2020dub.mp4
-#EXTINF:-1,Presas no Paraíso
+#EXTINF:-1 type="stream" tvg-id="Presas no Paraíso" tvg-logo="https://i.ibb.co/47j4q50/Presas-no-Para-so.jpg" group-title="Filmes 2019",Presas no Paraíso
 https://www1967.o0-4.com/token=3_jAKGfSaplj7hP4Li7Tng/1581971798/201.6.0.0/97/2/7c/4f1b85230fd883c74ab9aebd0c2e77c2-720p.mp4
-#EXTINF:-1,Abigail e a Cidade Proibida
+#EXTINF:-1 type="stream" tvg-id="Abigail e a Cidade Proibida" tvg-logo="https://i.ibb.co/LRMcYwD/Abigail-e-a-Cidade-Proibida.jpg" group-title="Filmes 2019",Abigail e a Cidade Proibida
 https://www1677.o0-4.com/token=NBV7VsQJAVZQx-SnXunKhg/1581971993/201.6.0.0/104/f/c6/27571031b9ab223103b92013853eec6f-720p.mp4
-#EXTINF:-1,Salyut-7
+#EXTINF:-1 type="stream" tvg-id="Salyut-7" tvg-logo="https://i.ibb.co/s2rCZqT/Salyut-7.jpg" group-title="Filmes 2017",Salyut-7
 https://www987.o0-2.com/token=c-ufTUwk3wvPNfFoYaDJ-Q/1581972049/201.6.0.0/81/e/9a/2ae765a7f622da5f16de2b33ff7889ae-720p.mp4
-#EXTINF:-1,O Traidor
+#EXTINF:-1 type="stream" tvg-id="O Traidor" tvg-logo="https://i.ibb.co/hHnt5Xh/O-Traidor.jpg" group-title="Filmes 2019",O Traidor
 https://www2117.o0-5.com/token=tQQpLWFIDXbvYstHzKSKlA/1581972123/201.6.0.0/75/5/03/8ace0ae55e239786b843fe0546b45035-720p.mp4
-#EXTINF:-1,Os Parças 2
+#EXTINF:-1 type="stream" tvg-id="Os Parças 2" tvg-logo="https://i.ibb.co/Q6dTgMd/Os-Par-as-2.jpg" group-title="Filmes 2019",Os Parças 2
 https://www1158.o0-3.com/token=2n8yvASiOiNKCUQNQ2hXwA/1581972525/201.6.0.0/98/2/d6/9b8daf4e9c0bc2634722172441a06d62-720p.mp4
 #EXTINF:-1,As Aventuras do Dr. Dolittle
 https://www772.o0-2.com/token=0jNaMj2D4SGcEBzNwvlzLw/1581972566/201.6.0.0/88/4/8b/d676e2a414d3f707259446d266f458b4-720p.mp4
