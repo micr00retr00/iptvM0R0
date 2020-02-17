@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Globo
+#EXTINF:-1 type="stream" tvg-id="Globo" tvg-logo="https://i.ibb.co/hR8shCF/Globo.png" group-title="TV Aberta",Globo
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1,Band
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
