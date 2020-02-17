@@ -7,17 +7,17 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
 #EXTINF:-1,SBT
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w553137014_b1000000.m3u8
-#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang
+#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/YRrM4B8/boomerang.png" group-title="Infantil",Boomerang
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/M22gCQv/cartoon-network.png" group-title="Infantil",Cartoon Network
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/YQZqdkN/discovery-kids.png" group-title="Infantil",Discovery Kids
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
-#EXTINF:-1, type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
+#EXTINF:-1, type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/t35GTF3/disney-chennel.png" group-title="Infantil",Disney Channel
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR
+#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/QfynkPb/disney-junior.png" group-title="Infantil",Disney JR
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD
+#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/9rRrzDg/disney-xd.png" group-title="Infantil",Disney XD
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
 #EXTINF:-1,Gloob
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
@@ -55,7 +55,7 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/max.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
 #EXTINF:-1,Max Up
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filmes e Séries",AMC
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/3BqYyPn/amc.png" group-title="Filmes e Séries",AMC
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1,Cinemax
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
@@ -73,11 +73,11 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
 #EXTINF:-1,Warner
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filmes e Séries",A&E
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/Hg3FzW7/a-e.png" group-title="Filmes e Séries",A&E
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
 #EXTINF:-1,Sony
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Filmes e Séries",Comedy Central
+#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/7vcFXz7/comedy-central.png" group-title="Filmes e Séries",Comedy Central
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
 #EXTINF:-1,FX
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
@@ -93,9 +93,9 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
 #EXTINF:-1,Nat Geo
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/fCFXpDh/discovery-channel.png" group-title="Documentario",Discovery Channel
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/P5cjC59/combate.png" group-title="Esporte",Combate
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1,ESPN
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
