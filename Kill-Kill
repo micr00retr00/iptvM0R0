@@ -87,57 +87,57 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSig
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/z8DLhHV/tnt-series.png" group-title="Filmes e Séries",TNT Series
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/dLDzGdc/history-channel.png" group-title="Filmes e Séries",History
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/dLDzGdc/history-channel.png" group-title="Documentario",History
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/LQCpKFR/history-2.png" group-title="Filmes e Séries",History 2
+#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/LQCpKFR/history-2.png" group-title="Documentario",History 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/SfmmjqC/National-Geographic.png" group-title="Filmes e Séries",National Geographic
+#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/SfmmjqC/National-Geographic.png" group-title="Documentario",National Geographic
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/fCFXpDh/discovery-channel.png" group-title="Documentario",Discovery Channel
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/P5cjC59/combate.png" group-title="Esporte",Combate
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
-#EXTINF:-1,ESPN
+#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/GWygvbF/espn.png" group-title="Esporte",ESPN
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/vxK9CmB/espn-2.png" group-title="Esporte",ESPN 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
-#EXTINF:-1,ESPN Brasil
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/rptWVSt/espn-brasil.png" group-title="Esporte",ESPN Brasil
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
-#EXTINF:-1,ESPN Extra
+#EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/LdQRMzc/espn-extra.png" group-title="Esporte",ESPN Extra
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
-#EXTINF:-1,Fox Sport
+#EXTINF:-1 type="stream" tvg-id="Fox Sport" tvg-logo="https://i.ibb.co/ZNLh378/fox-sports.png" group-title="Esporte",Fox Sport
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
-#EXTINF:-1,Fox Sport 2
+#EXTINF:-1 type="stream" tvg-id="Fox Sport 2" tvg-logo="https://i.ibb.co/8NCwZ8n/fox-sports-2.png" group-title="Esporte",Fox Sport 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
-#EXTINF:-1,Sport TV
+#EXTINF:-1 type="stream" tvg-id="Sport TV" tvg-logo="https://i.ibb.co/DMV8yt9/sportv.png" group-title="Esporte",Sport TV
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
-#EXTINF:-1,Sport TV 2
+#EXTINF:-1 type="stream" tvg-id="Sport TV 2" tvg-logo="https://i.ibb.co/1zdm1zx/sportv2.png" group-title="Esporte",Sport TV 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
-#EXTINF:-1,Sport TV 3
+#EXTINF:-1 type="stream" tvg-id="Sport TV 3" tvg-logo="https://i.ibb.co/Sdr46pH/sportv-3.jpg" group-title="Esporte",Sport TV 3
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
-#EXTINF:-1,Band Sport
+#EXTINF:-1 type="stream" tvg-id="Band Sport" tvg-logo="https://i.ibb.co/FgkGQT2/bandsports.png" group-title="Esporte",Band Sport
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=
-#EXTINF:-1,Premiere Clubes
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/VBwHYp9/PFC.png" group-title="Esporte",Premiere Clubes
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1,Fox
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/ThQnqpV/fox.png" group-title="Filmes e Séries",Fox
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_95ce5c30fc73ca1dd2d836e2e7bd05f5f48758be/playlist.m3u8
-#EXTINF:-1,Off
+#EXTINF:-1 type="stream" tvg-id="Off" tvg-logo="https://i.ibb.co/YhL2Qsy/OFF.png" group-title="Variedades",Off
 http://edge-aws.aovivo.club/hls/s:88.198.239.170/canaloff_12f0de3d_8464e46e805187a1cf990a46ae265b1d11816ecf/playlist.m3u8
-#EXTINF:-1,Woohoo
+#EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/sJRcpzx/woohoo.png" group-title="Variedades",Woohoo
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/woohoo_80cc9fea_14d9d989fb80ab8073e63162d182c075e542a792/playlist.m3u8
-#EXTINF:-1,As Panteras
+#EXTINF:-1s type="stream" tvg-id="As Pantera" tvg-logo="https://i.ibb.co/HFY6CXR/as-panteras.jpg" group-title="Filmes 2019",As Pantera
 http://cdndp.topcine.tv/ondemand/filmes/AsPanteras2019.mp4
-#EXTINF:-1,Joias Brutas
+#EXTINF:-1 type="stream" tvg-id="Joias Brutas" tvg-logo="https://i.ibb.co/0Q6z4Q0/Joias-Brutas.jpg" group-title="Filmes 2019",Joias Brutas
 http://cdndp.topcine.tv/ondemand/filmes/Uncut.gems.2019.mp4
-#EXTINF:-1,O Misterio das Palavras Cruzadas: Abracadaver
+#EXTINF:-1 type="stream" tvg-id="O Misterio das Palavras Cruzadas: Abracadaver" tvg-logo="https://i.ibb.co/ZmTH9Y6/O-Misterio-das-Palavras-Cruzadas-Abracadaver.jpg" group-title="Filmes 2020",O Misterio das Palavras Cruzadas: Abracadaver
 http://cdndp.topcine.tv/ondemand/filmes/omisteriodaspalavrascruzadas2019.mp4
-#EXTINF:-1,O Exterminador do Futuro: Destino Sombrio
+#EXTINF:-1 type="stream" tvg-id="O Exterminador do Futuro: Destino Sombrio" tvg-logo="https://i.ibb.co/2kNwzpc/O-Exterminador-do-Futuro-Destino-Sombrio.jpg" group-title="Filmes 2019",O Exterminador do Futuro: Destino Sombrio
 http://cdndp.topcine.tv/ondemand/filmes/Terminator.dark.fate.2019.mp4
-#EXTINF:-1,Viver Duas Vezes
+#EXTINF:-1 type="stream" tvg-id="Viver Duas Vezes" tvg-logo="https://i.ibb.co/f9VRNGm/Viver-Duas-Vezes.jpg" group-title="Filmes 2019",Viver Duas Vezes
 http://cdndp.topcine.tv/ondemand/filmes/Vivir.dos.veces.2019.mp4
-#EXTINF:-1,Abominavél
+#EXTINF:-1, type="stream" tvg-id="Abominavél" tvg-logo="https://i.ibb.co/Fz99ZZD/Abominavel.jpg" group-title="Filmes 2019",Abominavél
 http://cdndp.topcine.tv/ondemand/filmes/Abominable.2019.mp4
-#EXTINF:-1,Herdeiro das Drogas
+#EXTINF:-1 type="stream" tvg-id="Herdeiro das Drogas" tvg-logo="https://i.ibb.co/xjytH1Q/Herdeiro-das-Drogas.jpg" group-title="Filmes 2020",Herdeiro das Drogas
 http://cdndp.topcine.tv/ondemand/filmes/Inherit.the.Viper2020dub.mp4
 #EXTINF:-1,Presas no Paraíso
 https://www1967.o0-4.com/token=3_jAKGfSaplj7hP4Li7Tng/1581971798/201.6.0.0/97/2/7c/4f1b85230fd883c74ab9aebd0c2e77c2-720p.mp4
