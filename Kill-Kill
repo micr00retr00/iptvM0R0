@@ -119,3 +119,9 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=
 #EXTINF:-1,Premiere Clubes
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_95ce5c30fc73ca1dd2d836e2e7bd05f5f48758be/playlist.m3u8
+#EXTINF:-1,Off
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/canaloff_12f0de3d_8464e46e805187a1cf990a46ae265b1d11816ecf/playlist.m3u8
+#EXTINF:-1,Woohoo
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/woohoo_80cc9fea_14d9d989fb80ab8073e63162d182c075e542a792/playlist.m3u8
