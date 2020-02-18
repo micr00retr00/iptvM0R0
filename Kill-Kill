@@ -2,23 +2,23 @@
 #EXTINF:-1 type="stream" tvg-id="Globo" tvg-logo="https://i.ibb.co/hR8shCF/Globo.png" group-title="TV Aberta",Globo
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/ynXV87L/band.png" group-title="TV Aberta",Band
-https://live.multicanais.com/mylive/bandcampinashd/video.m3u8?md5=4tAHIHko8sfsQuauUgHIGw&expires=1582002577
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_c2c3f4d39e6bfdb040bafe839da76d80e1b602bf/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Rede TV" tvg-logo="https://i.ibb.co/N2qScTZ/rede-tv.png" group-title="TV Aberta",Rede TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/pJw4XHq/sbt.png" group-title="TV Aberta",SBT
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w553137014_b1000000.m3u8
 #EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/YRrM4B8/boomerang.png" group-title="Infantil",Boomerang
-https://live.multicanais.com/live/boomeranghd/video.m3u8?md5=mb21-fQcNjiykV9qIYNEIw&expires=1582002612
+hhttp://edge-aws.aovivo.club/hls/s:209.126.108.100:81/boomerang_2659fc51_58e3258ff7f62fc0c8de107632c7d25719885196/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/M22gCQv/cartoon-network.png" group-title="Infantil",Cartoon Network
-https://live.multicanais.com/mylive/cartoonnetworksd/video.m3u8?md5=Y3t11lXm6Tkll8pMexeo3w&expires=1582002632
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_9dbebdcb82fc0e8c9b27f5d5b51fb4d72467ae0a/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/YQZqdkN/discovery-kids.png" group-title="Infantil",Discovery Kids
-https://live.multicanais.com/live/discoverykidshd/video.m3u8?md5=Jr7A07YC3qsgiI_4fS_gGw&expires=1582002661
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_b04515b6d7057c48f89cc121b366bf7a7f559bff/playlist.m3u8
 #EXTINF:-1, type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/t35GTF3/disney-chennel.png" group-title="Infantil",Disney Channel
-https://live.multicanais.com/mylive/disneysd/video.m3u8?md5=fyW0Aqssb6mR4LVnDLEwKw&expires=1582002697
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/disneychannel_a9334987_81250626c32ad7bfc5548e368723ba94c874af5d/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/QfynkPb/disney-junior.png" group-title="Infantil",Disney JR
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/9rRrzDg/disney-xd.png" group-title="Infantil",Disney XD
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/disneyxd_d094700e_1d81d2c6c8f6d3a9c5a9a418691b41ddd14cd5db/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="https://i.ibb.co/HBj9y8T/gloob-logo.png" group-title="Infantil",Gloob
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Nat Geo Kids" tvg-logo="https://i.ibb.co/4tgWfsV/nat-geo-kids.png" group-title="Infantil",Nat Geo Kids
@@ -74,11 +74,11 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Warner" tvg-logo="https://i.ibb.co/BNHnhZF/Warner.png" group-title="Filmes e Séries",Warner
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/Hg3FzW7/a-e.png" group-title="Filmes e Séries",A&E
-https://live.multicanais.com/live/aehd/video.m3u8?md5=MwkJmFqbeSkpsTg6QpdNBw&expires=1582002118
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_ec56a93e0e8fef79232e8d8c1f67d17eff3d1f9d/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Sony" tvg-logo="https://i.ibb.co/yy5KwXw/Sony.png" group-title="Filmes e Séries",Sony
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/7vcFXz7/comedy-central.png" group-title="Filmes e Séries",Comedy Central
-https://live.multicanais.com/live/comedycentralhd/video.m3u8?md5=UdFnk6LNuLirdEw0CkRdWQ&expires=1582002156
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_8708581cb172271474f0872b32ce527566de7b30/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/s1jRVZ2/FX.png" group-title="Filmes e Séries",FX
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Investigação Discovery" tvg-logo="https://i.ibb.co/181HFd4/Investiga-o-Discovery.png" group-title="Filmes e Séries",Investigação Discovery
@@ -94,7 +94,7 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/SfmmjqC/National-Geographic.png" group-title="Documentario",National Geographic
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/fCFXpDh/discovery-channel.png" group-title="Documentario",Discovery Channel
-https://live.multicanais.com/mylive/discoverysd/video.m3u8?md5=aSFMwps-vq5UwbhVbq9Vaw&expires=1582002189
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/discoverychannel_af3e1334_8f7546892edd490b1c19ccc55b494c0600c127c7/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/P5cjC59/combate.png" group-title="Esporte",Combate
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/GWygvbF/espn.png" group-title="Esporte",ESPN
@@ -116,37 +116,19 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Sport TV 3" tvg-logo="https://i.ibb.co/Sdr46pH/sportv-3.jpg" group-title="Esporte",Sport TV 3
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Band Sport" tvg-logo="https://i.ibb.co/FgkGQT2/bandsports.png" group-title="Esporte",Band Sport
-https://live.multicanais.com/live/bandsportshd/video.m3u8?md5=eQaVpLwabmXqND-7gJ78hA&expires=1582002275
+http://edge-aws.aovivo.club/hls/s:88.198.163.51/bandsports_f53eac2e_7d66cd65c5ce3e8c62c33afbd7e811a13177cfe9/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/VBwHYp9/PFC.png" group-title="Esporte",Premiere Clubes
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/ThQnqpV/fox.png" group-title="Filmes e Séries",Fox
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_95ce5c30fc73ca1dd2d836e2e7bd05f5f48758be/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_bc479ea62b2e7e78513569950a68760562e7992b/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Off" tvg-logo="https://i.ibb.co/YhL2Qsy/OFF.png" group-title="Variedades",Off
-http://edge-aws.aovivo.club/hls/s:88.198.239.170/canaloff_12f0de3d_8464e46e805187a1cf990a46ae265b1d11816ecf/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_8464e46e805187a1cf990a46ae265b1d11816ecf/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/sJRcpzx/woohoo.png" group-title="Variedades",Woohoo
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/woohoo_80cc9fea_14d9d989fb80ab8073e63162d182c075e542a792/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB Cam 1" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 1
+#EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB
 https://live.multicanais.com/live/bbb01hd/video.m3u8?md5=T8US6IRyd4nu2HQ_uulrqg&expires=1582001728
-#EXTINF:-1 type="stream" tvg-id="BBB Cam 2" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 2
-https://live.multicanais.com/live/bbb02hd/video.m3u8?md5=E9zOq2yNqduu9D5C-BM4zQ&expires=1582001790
-EXTINF:-1 type="stream" tvg-id="BBB Cam 3" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 3
-https://live.multicanais.com/live/bbb03hd/video.m3u8?md5=rfj6MyfalWDfGy37MJKKXw&expires=1582001836
-EXTINF:-1 type="stream" tvg-id="BBB Cam 4" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 4
-https://live.multicanais.com/live/bbb04hd/video.m3u8?md5=aRa4uoN3mFVvCZ8sGyShVg&expires=1582001897
-EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 5
-https://live.multicanais.com/live/bbb05hd/video.m3u8?md5=HZ5slSyj5b2YQf9i-WJRMw&expires=1582001916
-EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 6
-https://live.multicanais.com/live/bbb06hd/video.m3u8?md5=h_9xxJ-RTBHdcbMamaba2g&expires=1582002002
-EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 7
-https://live.multicanais.com/live/bbb07hd/video.m3u8?md5=I_Uw2eyO8plMtgf--pjBOw&expires=1582002015
-EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 8
-https://live.multicanais.com/live/bbb08hd/video.m3u8?md5=Hor3w3HtlxV-lTARWCPASQ&expires=1582002049
-EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 9
-https://live.multicanais.com/live/bbb09hd/video.m3u8?md5=4yOfMbaN8GhFHwbesWzSbA&expires=1582002059
-EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 10
-https://live.multicanais.com/live/bbb10hd/video.m3u8?md5=UmeutWoEefNgL3ytf4wD9g&expires=1582002071
 EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/k8fk543/multishow.png" group-title="Variedades",Multishow
-https://live.multicanais.com/mylive/multishowsd/video.m3u8?md5=zFPJd1vq5C4GfcIWyZoL2w&expires=1582002381
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
 #EXTINF:-1s type="stream" tvg-id="As Pantera" tvg-logo="https://i.ibb.co/HFY6CXR/as-panteras.jpg" group-title="Filmes 2019",As Pantera
 http://cdndp.topcine.tv/ondemand/filmes/AsPanteras2019.mp4
 #EXTINF:-1 type="stream" tvg-id="Joias Brutas" tvg-logo="https://i.ibb.co/0Q6z4Q0/Joias-Brutas.jpg" group-title="Filmes 2019",Joias Brutas
