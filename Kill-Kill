@@ -143,10 +143,16 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_8464e46e805187a1cf990a46ae265b1d11816ecf/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/sJRcpzx/woohoo.png" group-title="Variedades",Woohoo
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/woohoo_80cc9fea_14d9d989fb80ab8073e63162d182c075e542a792/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB
-https://live.multicanais.com/live/bbb01hd/video.m3u8?md5=T8US6IRyd4nu2HQ_uulrqg&expires=1582001728
 EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/k8fk543/multishow.png" group-title="Variedades",Multishow
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="BBB Cam 1" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 1
+http://e3.cdn4.us/ingest013/59860.m3u8?sf=SG1YeHQ3S2V2Zg==&token=tdegWDqlpq-95P89Kr--8g&expires=1582045588&rnd=
+#EXTINF:-1 type="stream" tvg-id="BBB Cam 2" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 2
+http://e1.cdn4.us/ingest013/61208.m3u8?sf=dk5ORXB2REtFeg==&token=VWop9O8FDXJ-xMXeUaf9IQ&expires=1582045767&rnd=
+#EXTINF:-1 type="stream" tvg-id="BBB Cam 5" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 3
+http://e1.cdn4.us/ingest010/59859.m3u8?sf=Vjc1MHJObUNpSQ==&token=6AO8FYzwKWnX8sEOvn5KSw&expires=1582045850&rnd=
+#EXTINF:-1 type="stream" tvg-id="BBB Cam 6" tvg-logo="https://i.ibb.co/JztgKC7/bbb.png" group-title="Variedades",BBB Cam 4
+https://ul.cdn946.net:8443/hls/imuge2rxomld3m.m3u8?s=Ftn0rB1eIojANKlcgTYRjQ&e=1582053021
 
 ### Filmes 2018 ###
 
