@@ -1,4 +1,7 @@
 #EXTM3U
+
+### TV Aberta ###
+
 #EXTINF:-1 type="stream" tvg-id="Globo" tvg-logo="https://i.ibb.co/hR8shCF/Globo.png" group-title="TV Aberta",Globo
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/ynXV87L/band.png" group-title="TV Aberta",Band
@@ -7,6 +10,9 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_c2c3f4d39e6bfdb0
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/pJw4XHq/sbt.png" group-title="TV Aberta",SBT
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w553137014_b1000000.m3u8
+
+### Infantil ###
+
 #EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/YRrM4B8/boomerang.png" group-title="Infantil",Boomerang
 hhttp://edge-aws.aovivo.club/hls/s:209.126.108.100:81/boomerang_2659fc51_58e3258ff7f62fc0c8de107632c7d25719885196/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/M22gCQv/cartoon-network.png" group-title="Infantil",Cartoon Network
@@ -27,6 +33,11 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Tooncast" tvg-logo="https://i.ibb.co/RD1sMDd/tooncast.png" group-title="Infantil",Tooncast
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=
+
+### Filmes e Séries ###
+
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/ThQnqpV/fox.png" group-title="Filmes e Séries",Fox
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_bc479ea62b2e7e78513569950a68760562e7992b/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/PG6HzXj/telecine-action.jpg" group-title="Filmes e Séries",Telecine Action
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="<img src="https://i.ibb.co/k1JYTWc/telecine-touch.jpg" group-title="Filmes e Séries",Telecine Cult
@@ -87,6 +98,9 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSig
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/z8DLhHV/tnt-series.png" group-title="Filmes e Séries",TNT Series
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+
+### Documentario ###
+
 #EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/dLDzGdc/history-channel.png" group-title="Documentario",History
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/LQCpKFR/history-2.png" group-title="Documentario",History 2
@@ -95,6 +109,9 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/fCFXpDh/discovery-channel.png" group-title="Documentario",Discovery Channel
 http://edge-aws.aovivo.club/hls/s:78.47.27.206/discoverychannel_af3e1334_8f7546892edd490b1c19ccc55b494c0600c127c7/playlist.m3u8
+
+### Esporte ###
+
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/P5cjC59/combate.png" group-title="Esporte",Combate
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/GWygvbF/espn.png" group-title="Esporte",ESPN
@@ -119,8 +136,9 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
 http://edge-aws.aovivo.club/hls/s:88.198.163.51/bandsports_f53eac2e_7d66cd65c5ce3e8c62c33afbd7e811a13177cfe9/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/VBwHYp9/PFC.png" group-title="Esporte",Premiere Clubes
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/ThQnqpV/fox.png" group-title="Filmes e Séries",Fox
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_bc479ea62b2e7e78513569950a68760562e7992b/playlist.m3u8
+
+### Variedades ###
+
 #EXTINF:-1 type="stream" tvg-id="Off" tvg-logo="https://i.ibb.co/YhL2Qsy/OFF.png" group-title="Variedades",Off
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_8464e46e805187a1cf990a46ae265b1d11816ecf/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/sJRcpzx/woohoo.png" group-title="Variedades",Woohoo
@@ -129,6 +147,14 @@ http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/woohoo_80cc9fea_14d9d989fb8
 https://live.multicanais.com/live/bbb01hd/video.m3u8?md5=T8US6IRyd4nu2HQ_uulrqg&expires=1582001728
 EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/k8fk543/multishow.png" group-title="Variedades",Multishow
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+
+### Filmes 2018 ###
+
+#EXTINF:-1 type="stream" tvg-id="O Primeiro Homem" tvg-logo="https://i.ibb.co/XDtcvg0/O-Primeiro-Homem.jpg" group-title="Filmes 2018",O Primeiro Homem
+https://www660.o0-2.com/token=vF2poYECL0RowpfoJpwWPw/1582013589/2804:431::/40/c/0a/ea87abdc5ee9f0c7348bc6b9e77070ac-720p.mp4
+
+### Filmes 2019 ###
+
 #EXTINF:-1s type="stream" tvg-id="As Pantera" tvg-logo="https://i.ibb.co/HFY6CXR/as-panteras.jpg" group-title="Filmes 2019",As Pantera
 http://cdndp.topcine.tv/ondemand/filmes/AsPanteras2019.mp4
 #EXTINF:-1 type="stream" tvg-id="Joias Brutas" tvg-logo="https://i.ibb.co/0Q6z4Q0/Joias-Brutas.jpg" group-title="Filmes 2019",Joias Brutas
@@ -141,8 +167,6 @@ http://cdndp.topcine.tv/ondemand/filmes/Terminator.dark.fate.2019.mp4
 http://cdndp.topcine.tv/ondemand/filmes/Vivir.dos.veces.2019.mp4
 #EXTINF:-1, type="stream" tvg-id="Abominavél" tvg-logo="https://i.ibb.co/Fz99ZZD/Abominavel.jpg" group-title="Filmes 2019",Abominavél
 http://cdndp.topcine.tv/ondemand/filmes/Abominable.2019.mp4
-#EXTINF:-1 type="stream" tvg-id="Herdeiro das Drogas" tvg-logo="https://i.ibb.co/xjytH1Q/Herdeiro-das-Drogas.jpg" group-title="Filmes 2020",Herdeiro das Drogas
-http://cdndp.topcine.tv/ondemand/filmes/Inherit.the.Viper2020dub.mp4
 #EXTINF:-1 type="stream" tvg-id="Presas no Paraíso" tvg-logo="https://i.ibb.co/47j4q50/Presas-no-Para-so.jpg" group-title="Filmes 2019",Presas no Paraíso
 https://www1967.o0-4.com/token=3_jAKGfSaplj7hP4Li7Tng/1581971798/201.6.0.0/97/2/7c/4f1b85230fd883c74ab9aebd0c2e77c2-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Abigail e a Cidade Proibida" tvg-logo="https://i.ibb.co/LRMcYwD/Abigail-e-a-Cidade-Proibida.jpg" group-title="Filmes 2019",Abigail e a Cidade Proibida
@@ -151,23 +175,27 @@ https://www1677.o0-4.com/token=NBV7VsQJAVZQx-SnXunKhg/1581971993/201.6.0.0/104/f
 https://www2117.o0-5.com/token=tQQpLWFIDXbvYstHzKSKlA/1581972123/201.6.0.0/75/5/03/8ace0ae55e239786b843fe0546b45035-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Os Parças 2" tvg-logo="https://i.ibb.co/Q6dTgMd/Os-Par-as-2.jpg" group-title="Filmes 2019",Os Parças 2
 https://www1158.o0-3.com/token=2n8yvASiOiNKCUQNQ2hXwA/1581972525/201.6.0.0/98/2/d6/9b8daf4e9c0bc2634722172441a06d62-720p.mp4
-#EXTINF:-1 type="stream" tvg-id="As Aventuras do Dr. Dolittle" tvg-logo="https://i.ibb.co/2Z8GMkx/As-Aventuras-do-Dr-Dolittle.jpg" group-title="Filmes 2020",As Aventuras do Dr. Dolittle
-https://www772.o0-2.com/token=0jNaMj2D4SGcEBzNwvlzLw/1581972566/201.6.0.0/88/4/8b/d676e2a414d3f707259446d266f458b4-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Cores da Justiça" tvg-logo="https://i.ibb.co/j5p60Cf/Cores-da-Justica.jpg" group-title="Filmes 2019",Cores da Justiça
 https://www315.o0-1.com/token=ituxev60v0T3EOc-_vl0Ng/1581972653/201.6.0.0/86/9/83/73b8197e37e7f0fc776a720656345839-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Dragon Quest: Your Story" tvg-logo="https://i.ibb.co/HtPjt87/Dragon-Quest-Your-Story.jpg" group-title="Filmes 2019",Dragon Quest: Your Story
 https://www700.o0-2.com/token=9gcorc-UKXXqq9nMSpSHnA/1582010022/2804:431::/101/b/51/a27291d7cbe192fd0dcfe56b11e1a51b-720p.mp4
-#EXTINF:-1 type="stream" tvg-id="Jumanji: Próxima Fase" tvg-logo="https://i.ibb.co/g75LtTB/Jumanji-Pr-xima-Fase.jpg" group-title="Filmes 2020",Jumanji: Próxima Fase
-https://www202.o0-1.com/token=Kp6YD4gzU7T-dgDWm8SwNA/1582012789/2804:431::/75/c/89/d5bc0b7fa1857b93a4dd507b52ad989c-720p.mp4
-#EXTINF:-1 type="stream" tvg-id="A Família Addams" tvg-logo="https://i.ibb.co/VWgF6x2/A-Fam-lia-Addams.jpg" group-title="Filmes 2020",A Família Addams
-https://www2160.o0-5.com/token=bkdvc_rYz6u0GgJui6Or0w/1582012935/2804:431::/78/4/f0/1db4ecd3769e4d27317a43fe117a4f04-720p.mp4
-#EXTINF:-1 type="stream" tvg-id="Parasita" tvg-logo="https://i.ibb.co/kmMHMrH/parasita.jpg" group-title="Filmes 2020",Parasita
-https://www1731.o0-4.com/token=leiba3cGN4ERoravdi8BAA/1582012957/2804:431::/93/0/82/03fb5fd561c3d7d95841c5f7550ea820-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Malévola 2: Dona do Mal Dublado" tvg-logo="https://i.ibb.co/cD45y7G/malevola-dona-do-mal.jpg" group-title="Filmes 2019",Malévola 2: Dona do Mal Dublado
 https://www721.o0-2.com/token=6KoZ9xpbTK7267HUtIvRlQ/1582012956/2804:431::/88/7/6a/da066b7dd5c4dfcad47f48fc6d6456a7-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Ad Astra: Rumo às Estrelas" tvg-logo="https://i.ibb.co/Tv4KRhS/Ad-Astra-Rumo-s-Estrelas.jpg" group-title="Filmes 2019",Ad Astra: Rumo às Estrelas
 https://www1611.o0-4.com/token=HV9kpSI6DHkLj5G0N-zy6w/1582012975/2804:431::/87/d/89/cfe5554f42a13b1c48a2ee092b3a689d-720p.mp4
 #EXTINF:-1 type="stream" tvg-id="Atos de Violência" tvg-logo="https://i.ibb.co/gSRWBX3/Atos-de-Viol-ncia.jpg" group-title="Filmes 2019",Atos de Violência
 https://www802.o0-2.com/token=yQl2lzMt8V_QXilMMVMoHw/1582013485/2804:431::/64/9/48/ae12dc2aef438dd3f7be97d7d36c7489-720p.mp4
-#EXTINF:-1 type="stream" tvg-id="O Primeiro Homem" tvg-logo="https://i.ibb.co/XDtcvg0/O-Primeiro-Homem.jpg" group-title="Filmes 2018",O Primeiro Homem
-https://www660.o0-2.com/token=vF2poYECL0RowpfoJpwWPw/1582013589/2804:431::/40/c/0a/ea87abdc5ee9f0c7348bc6b9e77070ac-720p.mp4
+
+### Filmes 2020 ###
+
+#EXTINF:-1 type="stream" tvg-id="Herdeiro das Drogas" tvg-logo="https://i.ibb.co/xjytH1Q/Herdeiro-das-Drogas.jpg" group-title="Filmes 2020",Herdeiro das Drogas
+http://cdndp.topcine.tv/ondemand/filmes/Inherit.the.Viper2020dub.mp4
+#EXTINF:-1 type="stream" tvg-id="As Aventuras do Dr. Dolittle" tvg-logo="https://i.ibb.co/2Z8GMkx/As-Aventuras-do-Dr-Dolittle.jpg" group-title="Filmes 2020",As Aventuras do Dr. Dolittle
+https://www772.o0-2.com/token=0jNaMj2D4SGcEBzNwvlzLw/1581972566/201.6.0.0/88/4/8b/d676e2a414d3f707259446d266f458b4-720p.mp4
+#EXTINF:-1 type="stream" tvg-id="Jumanji: Próxima Fase" tvg-logo="https://i.ibb.co/g75LtTB/Jumanji-Pr-xima-Fase.jpg" group-title="Filmes 2020",Jumanji: Próxima Fase
+https://www202.o0-1.com/token=Kp6YD4gzU7T-dgDWm8SwNA/1582012789/2804:431::/75/c/89/d5bc0b7fa1857b93a4dd507b52ad989c-720p.mp4
+#EXTINF:-1 type="stream" tvg-id="A Família Addams" tvg-logo="https://i.ibb.co/VWgF6x2/A-Fam-lia-Addams.jpg" group-title="Filmes 2020",A Família Addams
+https://www2160.o0-5.com/token=bkdvc_rYz6u0GgJui6Or0w/1582012935/2804:431::/78/4/f0/1db4ecd3769e4d27317a43fe117a4f04-720p.mp4
+#EXTINF:-1 type="stream" tvg-id="Parasita" tvg-logo="https://i.ibb.co/kmMHMrH/parasita.jpg" group-title="Filmes 2020",Parasita
+https://www1731.o0-4.com/token=leiba3cGN4ERoravdi8BAA/1582012957/2804:431::/93/0/82/03fb5fd561c3d7d95841c5f7550ea820-720p.mp4
+
