@@ -5,7 +5,7 @@
 #EXTINF:-1 type="stream" tvg-id="Globo" tvg-logo="https://i.ibb.co/hR8shCF/Globo.png" group-title="TV Aberta",Globo
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/ynXV87L/band.png" group-title="TV Aberta",Band
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_c2c3f4d39e6bfdb040bafe839da76d80e1b602bf/playlist.m3u8
+https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1579484787.m3u8
 #EXTINF:-1 type="stream" tvg-id="Rede TV" tvg-logo="https://i.ibb.co/N2qScTZ/rede-tv.png" group-title="TV Aberta",Rede TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/pJw4XHq/sbt.png" group-title="TV Aberta",SBT
@@ -16,7 +16,7 @@ https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_
 #EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/YRrM4B8/boomerang.png" group-title="Infantil",Boomerang
 hhttp://edge-aws.aovivo.club/hls/s:209.126.108.100:81/boomerang_2659fc51_58e3258ff7f62fc0c8de107632c7d25719885196/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/M22gCQv/cartoon-network.png" group-title="Infantil",Cartoon Network
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_9dbebdcb82fc0e8c9b27f5d5b51fb4d72467ae0a/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_9dbebdcb82fc0e8c9b27f5d5b51fb4d72467ae0a/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/YQZqdkN/discovery-kids.png" group-title="Infantil",Discovery Kids
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_b04515b6d7057c48f89cc121b366bf7a7f559bff/playlist.m3u8
 #EXTINF:-1, type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/t35GTF3/disney-chennel.png" group-title="Infantil",Disney Channel
